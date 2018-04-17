@@ -3,7 +3,7 @@ package com.thoughtworks.TDD.integrationTest;
 Don't change this file
  */
 
-import com.thoughtworks.FizzBuzzGame;
+import com.thoughtworks.TDD.FizzBuzzGame;
 import org.junit.Test;
 
 import java.util.Arrays;
